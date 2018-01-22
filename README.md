@@ -2,10 +2,10 @@ Getting Started
 ---------------
 
 <code>
-	
 git clone https://github.com/willi-dev/wp-underscore-laravel-mix.git <br>
-npm install
-
+</code>
+<code>
+	npm install
 </code>
 
 
@@ -22,7 +22,7 @@ Watch for changes & automatic re-compile
 	npm run watch
 </code>
 
-Refresh page when piece of js changed
+Refresh page when changed
 ---------------
 <code>
 	npm run hot
