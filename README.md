@@ -3,7 +3,7 @@ Getting Started
 
 <code>
 git clone https://github.com/willi-dev/wp-underscore-laravel-mix.git <br>
-</code>
+</code><br>
 <code>
 	npm install
 </code>
